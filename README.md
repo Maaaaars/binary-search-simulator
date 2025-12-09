@@ -16,6 +16,12 @@ Tianyi Li
 CISC-121 Project
 
 ---
+-Hugging Face Space
+https://huggingface.co/spaces/DeadlyPants76/binary-search-simulator
+
+-Github
+https://github.com/Maaaaars/binary-search-simulator
+---
 
 -Overview
 This project plays Binary Search with an interactive UI built using Gradio.  
@@ -23,7 +29,7 @@ The app generates a sorted list of integers and shows how each step of the binar
 
 ---
 
-- Computational Thinking -
+Computational Thinking
 
 -Decomposition
 - Generate a sorted list that find a target number  
